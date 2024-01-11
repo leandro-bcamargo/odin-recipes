@@ -1,0 +1,28 @@
+* {
+  background-color: lightcyan;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+li, li a {
+  background-color: lightblue;
+  font-weight: 300;
+  max-width: fit-content;
+  color: darkviolet;
+  font-size: large;
+}
+
+h3 {
+  background-color: darkgreen;
+  max-width: fit-content;
+  color: white;
+}
+
+p {
+  color: darkblue;
+}
+
+
